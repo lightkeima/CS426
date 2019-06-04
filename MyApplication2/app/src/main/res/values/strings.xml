@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="films">
+        <item>Detective Pikachu</item>
+        <item>Doraemon</item>
+        <item>DragonBalls Z</item>
+        <item>DragonBalls Z again</item>
+        <item>DragonBallz Z again and again</item>
+        <item>AutoChess</item>
+        <item>No</item>
+    </string-array>
+</resources>
